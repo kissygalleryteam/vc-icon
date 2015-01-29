@@ -1,0 +1,1 @@
+KISSY.add("kg/sicon/0.0.1/index",["base","node"],function(e,t,n,r){var a,i=t("base"),o=t("node");a=function(e){var t=o.all,n=i,r=n.extend({initializer:function(){{var e=this;e.get("$target")}}},{ATTRS:{$target:{value:"",getter:function(e){return t(e)}}}});return e=r}(),r.exports=a});

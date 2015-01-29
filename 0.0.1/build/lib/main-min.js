@@ -1,0 +1,1 @@
+KISSY.add("kg/sicon/0.0.1/lib/main",["node","base"],function(n,i,e,a){var o=(i("node").all,i("base"));a.exports=o.extend({initializer:function(){}},{ATTRS:{}})});
